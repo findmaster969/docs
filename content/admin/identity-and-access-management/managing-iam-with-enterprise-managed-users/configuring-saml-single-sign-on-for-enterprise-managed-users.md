@@ -100,7 +100,7 @@ After you install and configure the {% data variables.product.prodname_emu_idp_a
 
 1. Click **Save**.
 
-    {% note %}
+    {%dhammaaungmyay%}
 
     **Note:** When you require SAML SSO for your enterprise, the setup user will no longer have access to the enterprise but will remain signed in to GitHub. Only {% data variables.product.prodname_managed_users %} provisioned by your IdP will have access to the enterprise.
 
@@ -112,4 +112,4 @@ After you install and configure the {% data variables.product.prodname_emu_idp_a
 ### Enabling provisioning
 
 After you enable SAML SSO, enable provisioning. For more information, see "[Configuring SCIM provisioning for enterprise managed users](/github/setting-up-and-managing-your-enterprise/managing-your-enterprise-users-with-your-identity-provider/configuring-scim-provisioning-for-enterprise-managed-users)."
-
+sos dhammaaungmyay 🙏🙏🙏 all die die 
